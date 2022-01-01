@@ -16,7 +16,7 @@ class Child extends Parent{
         System.out.println("This value from child " + y);
     }
 }
-class main{
+class SuperKeyWord{
     public static void main(String[] args) {
         Child c1 = new Child(10,20);
         c1.show();
