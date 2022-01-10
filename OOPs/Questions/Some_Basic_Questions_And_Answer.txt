@@ -1,0 +1,9 @@
+1: Can we overload the main method?
+Ans:- Yes, We can overload the main method in java but JVM only calls the original main method, it will never call our overloaded main method.(See the Program MainMethodOverload.java)
+
+2: A Java Constructor returns a value but, what?
+Ans: There are no “return value” statements in the constructor, but the constructor returns the current class instance. We can write ‘return’ inside a constructor.
+
+3: Can we create a program without main method?
+Ans: No. For Java based application, JVM will complain about missing main method but,
+we can execute a java program without a main method by using a static block. 
