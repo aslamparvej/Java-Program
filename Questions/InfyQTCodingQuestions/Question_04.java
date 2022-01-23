@@ -6,8 +6,7 @@
 // Author: Aslam Parvej
 
 // if flag = 1 input number is prime or flag = 0 input number is not prime
-package Basic.InfyQTCodingQuestions;
-import java.math.*;
+package Questions.InfyQTCodingQuestions;
 import java.util.Scanner;
 
 public class Question_04 {
@@ -53,6 +52,8 @@ public class Question_04 {
         }else{
             System.out.println(number + " is not prime number");
         }
+
+        scn.close();
     }
 
 }

@@ -2,7 +2,7 @@
 // Input: Any positive Integer 
 // Output: factorial of input number
 // Author: Aslam Parvej
-package Basic.InfyQTCodingQuestions;
+package Questions.InfyQTCodingQuestions;
 
 import java.util.Scanner;
 

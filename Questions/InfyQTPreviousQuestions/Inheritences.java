@@ -1,4 +1,4 @@
-package OOPs.Questions.InfyQTPreviousQuestions.java;
+package Questions.InfyQTPreviousQuestions;
 
 
 // class First {

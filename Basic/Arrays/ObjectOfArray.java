@@ -1,7 +1,5 @@
 package Basic.Arrays;
 
-import javax.print.attribute.standard.MediaSize.NA;
-
 class ObjectOfArray{
     class Student{
         int roll_no;

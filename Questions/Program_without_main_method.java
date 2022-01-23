@@ -1,4 +1,4 @@
-package OOPs.Questions;
+package Questions;
 
 class StaticInitializationBlock{
     static{

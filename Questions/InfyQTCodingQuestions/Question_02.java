@@ -4,9 +4,8 @@
 // Author: Aslam Parvej
 
 
-package Basic.InfyQTCodingQuestions;
+package Questions.InfyQTCodingQuestions;
 
-import java.io.*;
 import java.util.Scanner;
 
 public class Question_02 {

@@ -4,17 +4,17 @@
 // Author: Aslam Parvej
 
 
-package Basic.InfyQTCodingQuestions;
+package Questions.InfyQTCodingQuestions;
 import java.util.Scanner;
 
 class Question_03{
     public static void main(String[] args) {
         Scanner scn = new Scanner(System.in);
 
-        int n1 = scn.nextInt();
-        int n2 = scn.nextInt();
+        // int n1 = scn.nextInt();
+        // int n2 = scn.nextInt();
 
-
+        scn.close();
 
     }
 }

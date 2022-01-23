@@ -1,4 +1,4 @@
-package OOPs.Questions;
+package Questions;
 
 // Here Only Orginal main mrthod are called by JVM.
 

@@ -20,5 +20,7 @@ public class ScannerClass {
 
         System.out.println("Your name is "+name+" your are "+age+" years old"+" sex is " +sex);
         System.out.println("are you Indian: "+q);
+
+        scan.close();
     }
 }
