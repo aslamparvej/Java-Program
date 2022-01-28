@@ -2,8 +2,8 @@
 // Input: Four integer.
 // Output: Print smallest number.
 //Author: Aslam Parvej
-package Questions.InfyQTCodingQuestions;
 
+package Questions.InfyQTCodingQuestions;
 import java.util.Scanner;
 
 public class Question_08 {

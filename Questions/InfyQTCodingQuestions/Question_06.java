@@ -1,8 +1,8 @@
 // Question: Writte a progarm to sum of all the possible prime number within a range
 // Input: Two positive integer
 // Output: Sum of the all possible prime number
-package Questions.InfyQTCodingQuestions;
 
+package Questions.InfyQTCodingQuestions;
 import java.util.Scanner;
 
 public class Question_06 {

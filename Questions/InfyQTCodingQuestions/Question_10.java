@@ -2,8 +2,8 @@
 // Input: date in dd-mm-yyyy format
 // Output: Number of days in the month enter by the user.
 // Author: Aslam Parvej
-package Questions.InfyQTCodingQuestions;
 
+package Questions.InfyQTCodingQuestions;
 public class Question_10 {
     public static void main(String[] args) {
         

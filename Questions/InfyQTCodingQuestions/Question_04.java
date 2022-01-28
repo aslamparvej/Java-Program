@@ -6,6 +6,7 @@
 // Author: Aslam Parvej
 
 // if flag = 1 input number is prime or flag = 0 input number is not prime
+
 package Questions.InfyQTCodingQuestions;
 import java.util.Scanner;
 

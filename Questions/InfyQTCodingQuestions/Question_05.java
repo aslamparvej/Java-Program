@@ -1,8 +1,8 @@
 // Question: Write a program to find out prime number within a range
 // Input: Two positive Integer 
 // Output: Lists of the possible numbers within range separte by space 
-package Questions.InfyQTCodingQuestions;
 
+package Questions.InfyQTCodingQuestions;
 import java.util.Scanner;
 
 public class Question_05 {

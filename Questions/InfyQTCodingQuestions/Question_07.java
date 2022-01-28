@@ -4,7 +4,6 @@
 //Author: Aslam Parvej
 
 package Questions.InfyQTCodingQuestions;
-
 import java.util.Scanner;
 
 class Question_07{

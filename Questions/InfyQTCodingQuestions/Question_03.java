@@ -3,7 +3,6 @@
 // Output: positive integer which is GCD of input numbers
 // Author: Aslam Parvej
 
-
 package Questions.InfyQTCodingQuestions;
 import java.util.Scanner;
 

@@ -3,9 +3,7 @@
 // Output: Area of a cycle with two precision points
 // Author: Aslam Parvej
 
-
 package Questions.InfyQTCodingQuestions;
-
 import java.util.Scanner;
 
 public class Question_02 {

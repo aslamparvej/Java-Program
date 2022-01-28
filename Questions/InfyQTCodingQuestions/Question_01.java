@@ -3,7 +3,6 @@
 // Output: factorial of input number
 // Author: Aslam Parvej
 package Questions.InfyQTCodingQuestions;
-
 import java.util.Scanner;
 
 class Factorial{

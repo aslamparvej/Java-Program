@@ -2,8 +2,8 @@
 // Input: Three integer
 // Output: Print second largest number.
 //Author: Aslam Parvej
-package Questions.InfyQTCodingQuestions;
 
+package Questions.InfyQTCodingQuestions;
 import java.util.Scanner;
 
 class Questions_09{
