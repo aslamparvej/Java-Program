@@ -10,7 +10,7 @@ Author: Aslam Parvej
 package Questions.InfyQTCodingQuestions;
 import java.util.Arrays;
 import java.util.Scanner;
-public class Questions_12 {
+public class Question_12 {
     public static void main(String[] args) {
         Scanner scn = new Scanner(System.in);
         
