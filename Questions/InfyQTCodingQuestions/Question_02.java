@@ -12,7 +12,7 @@ public class Question_02 {
         Scanner scn = new Scanner(System.in);
         System.out.println("");
         int n = scn.nextInt();
-        float area = (float) (n * 3.14);
+        float area = (float) (n*n*3.14);
         System.out.print(String.format("%.2f", area));
 
         scn.close();
