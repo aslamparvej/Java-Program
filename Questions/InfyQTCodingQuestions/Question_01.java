@@ -1,8 +1,9 @@
+package Questions.InfyQTCodingQuestions;
+
 // Question: Write a program to calculate factorial of a number 
 // Input: Any positive Integer 
 // Output: factorial of input number
-// Author: Aslam Parvej
-package Questions.InfyQTCodingQuestions;
+
 import java.util.Scanner;
 
 class Factorial{
@@ -17,7 +18,7 @@ class Factorial{
     // Factorial using Iteration
     static long factusingItr(int n){
         long fact = 1;
-        for(int i=2; i<=n; i++){
+        for(int i=1; i<=n; i++){
             fact = fact*i;
         }
 
